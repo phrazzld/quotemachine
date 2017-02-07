@@ -32,7 +32,6 @@ body {
 }
 
 #buttons {
-  float: right;
   margin: 0;
   margin-bottom: 20px;
 }
@@ -45,3 +44,7 @@ blockquote {
   border: 1px solid #add8e6;
   padding: 15px 20px;
 }
+
+#twitter-widget-1 {
+  margin-top: 3px;
+};
