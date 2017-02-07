@@ -2,15 +2,46 @@ html, body {
   min-height: 100%;
 }
 
+html {
+  position: relative;
+}
+
 body {
   margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 #site-info {
+  position: absolute;
+  bottom: 0;
   text-align: center;
-  margin-top: 60px;
+  padding-bottom: 20px;
+}
+
+#site-info p {
+  margin: 0;
+  font-size: 0.8em;
 }
 
 #next-quote {
   float: right;
+}
+
+#quote {
+  line-height: 1.6em;
+}
+
+#buttons {
+  float: right;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+blockquote {
+  border: 1px solid #add8e6;
+  padding: 15px 20px;
 }
