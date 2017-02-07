@@ -1,0 +1,16 @@
+html, body {
+  min-height: 100%;
+}
+
+body {
+  margin-top: 60px;
+}
+
+#site-info {
+  text-align: center;
+  margin-top: 60px;
+}
+
+#next-quote {
+  float: right;
+}
