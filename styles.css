@@ -45,6 +45,6 @@ blockquote {
   padding: 15px 20px;
 }
 
-#twitterlink-wrapper iframe {
+[id^="twitter-widget-"] {
   margin-top: 3px;
 };
