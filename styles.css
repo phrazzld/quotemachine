@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  margin-top: 60px;
+  margin-top: 30px;
   margin-bottom: 60px;
 }
 
@@ -47,4 +47,16 @@ blockquote {
 
 [id^="twitter-widget-"] {
   margin-top: 3px;
-};
+}
+
+.light-text {
+  font-weight: 200;
+}
+
+.heavy-text {
+  font-weight: 600;
+}
+
+#brand {
+  margin-bottom: 40px;
+}
